@@ -18,7 +18,7 @@ namespace HotelListing.Models
     {
         public int Id { get; set; }
 
-        public IList<hotelDTO> hotels { get; set; }
+        public IList<hotelDTO> Hotels { get; set; }
 
     }
 }
